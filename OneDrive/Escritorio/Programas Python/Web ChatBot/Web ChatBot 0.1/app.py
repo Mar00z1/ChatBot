@@ -99,4 +99,4 @@ def resumen():
 
 if __name__ == '__main__':
     cargar_historial()  # Cargar el historial desde el archivo al iniciar
-    app.run(debug=True)
+    app.run(debug=False)
